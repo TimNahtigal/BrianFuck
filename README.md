@@ -11,8 +11,8 @@ You have 8 commands as fuck:
 - - Decrease value of a cell
 - > Move fuck pointer right
 - < Move fuck pointer left
-- [ Need for ']'
-- ] If value of cell isn't 0, go to last '['
+- \[ Need for ']'
+- ] If value of cell isn't 0, go to last '\['
 - . Write value in a cell in ascii
 - , Read value from input
 
