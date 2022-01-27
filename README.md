@@ -7,8 +7,8 @@ This is a compiler for my "over the weekend" programing language. It was based o
 Imagine this programing language as 2 30000 cells long arrays filled with zeros. You also have 2 pointers that start at 0 for each of them. For simplicity lets call them fuck and brian (because i call them that in the code). 
 Fuck can get user input, while brian can read and write from fuck. 
 You have 8 commands as fuck:
-- + Incrise value of a cell
-- - Decrease value of a cell
+- \+ Incrise value of a cell
+- \- Decrease value of a cell
 - \> Move fuck pointer right
 - < Move fuck pointer left
 - \[ Need for ']'
