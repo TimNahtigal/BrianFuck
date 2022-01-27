@@ -2,7 +2,7 @@
 
 This is a compiler for my "over the weekend" programing language. It was based on programing language called brainfuck. 
 ---
-##Programing
+## Programing
 
 Imagine this programing language as 2 30000 cells long arrays filled with zeros. You also have 2 pointers that start at 0 for each of them. For simplicity lets call them fuck and brian (because i call them that in the code). 
 Fuck can get user input, while brian can read and write from fuck. 
@@ -27,6 +27,6 @@ As brian you also have 8 commands:
 There is also ? command that writes into fuck cell random number from 1 to value of brian. 
 All other characters are ignored. 
 
-##Compiling 
+## Compiling 
 
 Alfter you compile this program just run it and write path to your braianfuck script. 
