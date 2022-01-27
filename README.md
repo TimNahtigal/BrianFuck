@@ -9,7 +9,7 @@ Fuck can get user input, while brian can read and write from fuck.
 You have 8 commands as fuck:
 - + Incrise value of a cell
 - - Decrease value of a cell
-- > Move fuck pointer right
+- \> Move fuck pointer right
 - < Move fuck pointer left
 - \[ Need for ']'
 - ] If value of cell isn't 0, go to last '\['
